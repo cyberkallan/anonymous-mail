@@ -2,17 +2,9 @@
 
 	
 import requests
-print("                 _                       _              _   _                 
-                | |                     | |            | | | |                
-   ___   _   _  | |__     ___   _ __    | | __   __ _  | | | |   __ _   _ __  
-  / __| | | | | | '_ \   / _ \ | '__|   | |/ /  / _` | | | | |  / _` | | '_ \ 
- | (__  | |_| | | |_) | |  __/ | |      |   <  | (_| | | | | | | (_| | | | | |
-  \___|  \__, | |_.__/   \___| |_|      |_|\_\  \__,_| |_| |_|  \__,_| |_| |_|
-          __/ |                                                               
-         |___/                                                                
-\n")
-print("\nAnonymous Email by anonymouse.org")
-print("coded by Cyber kallan (mallu youtuber) \n")
+
+print("\nAnonymous Email by cyber kallan")
+print("coded by Arjun arz (mallu youtuber) \n")
 to = raw_input('to: ')
 subject = raw_input('subject: ')
 message = raw_input('message: ')
