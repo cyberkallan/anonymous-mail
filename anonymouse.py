@@ -1,4 +1,4 @@
-# coded by github.com/thelinuxchoice/anonymouse
+# coded by https://github.com/cyberkallan/anonymous-mail
 banner() {
 	printf "
 	                _                       _              _   _                 
@@ -18,7 +18,7 @@ stop() {
 import requests
 
 print("\nAnonymous Email by anonymouse.org")
-print("coded by github.com/thelinuxchoice\n")
+print("coded by Cyber kallan (mallu youtuber) \n")
 to = raw_input('to: ')
 subject = raw_input('subject: ')
 message = raw_input('message: ')
