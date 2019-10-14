@@ -1,5 +1,5 @@
 # coded by https://github.com/cyberkallan/anonymous-mail
-banner() {
+
 	printf "
 	                _                       _              _   _                 
                 | |                     | |            | | | |                
@@ -11,9 +11,9 @@ banner() {
          |___/  "
 	
 
-}
 
-stop() {
+
+
 	
 import requests
 
