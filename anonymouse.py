@@ -16,7 +16,7 @@ email_req = sess.post('http://accounts.justdial.com/hr_dashboard_services/jdtest
 	'User-Agent': user_agent,
 	'Accept': 'application/json, text/javascript, */*; q=0.01',
 	'Accept-Language': 'en-IN,en;q=0.9,en-GB;q=0.8,en-US;q=0.7,hi;q=0.6,ar;q=0.5',
-	Cookie:PHPSESSID=9ov0jkdfs1k3ipph0pi3nb9aa4
+	
 	'Accept-Encoding': 'gzip, deflate',
 	'Referer': 'http://accounts.justdial.com/hr_dashboard_services/jdtest/register?mobile=NzYyMTA1Nzk0MQ==&id=MC4zMTU5MDkwMCAxNTY4NzAxODUyfEB8K%2FlonurGfX0%3D&city=',
         'Connection': 'close',
