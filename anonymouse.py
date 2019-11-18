@@ -1,9 +1,5 @@
 
-clear
-sleep 2
-toilet -f future "CYBER KALLAN" | lolcat
-sleep 2
-clear	
+
 
 import requests
 
